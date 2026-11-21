@@ -1,0 +1,12 @@
+node_modules
+.git
+.github
+google-apps-script
+workflows
+dist
+*.md
+LICENSE
+CNAME
+.stylelintrc.json
+eslint.config.mjs
+.gitattributes
